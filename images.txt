@@ -1,3 +1,4 @@
 whyour/qinglong:python3.10
 whyour/qinglong:2.11.3
 whyour/qinglong:debian-python3.10
+yangxiao6/stupidocr
